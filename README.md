@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Morsi Youcef</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
-<img alt="animated" width="400" height="400" height="40" align="center" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif"/>
+<img alt="animated" width="400" height="800" height="40" align="center" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morsiyoucef&label=Profile%20views&color=0e75b6&style=flat" alt="morsiyoucef" /> </p>
 
