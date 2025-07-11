@@ -36,10 +36,10 @@
   <img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" width="40" height="40"/>
 </a>
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-  <img src="https://www.prisma.io/logo-white.svg" alt="prisma" width="40" height="40"/>
+  <img src="https://www.prisma.io/logo-white.svg" alt="prisma" width="60" height="60"/>
 </a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
 </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=morsiyoucef&show_icons=true&locale=en&layout=compact" alt="morsiyoucef" /></p>
