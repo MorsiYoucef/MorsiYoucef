@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [www.linkedin.com/in/youcef-morsi-a7579a289](www.linkedin.com/in/youcef-morsi-a7579a289)
 
-- 💬 Ask me about **React,Android,MERN**
+- 💬 Ask me about **Bachend, system design, frontend, microservices...**
 
 - 📫 How to reach me **morsiyoucef.pro@gmail.com**
 
