@@ -33,8 +33,9 @@
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/>
 </a>
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
+  <img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" width="40" height="40"/>
 </a>
+
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
 </a>
