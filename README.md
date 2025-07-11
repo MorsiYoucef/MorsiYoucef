@@ -36,7 +36,7 @@
   <img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" width="40" height="40"/>
 </a>
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/prisma/prisma/master/docs/static/img/logo.svg" alt="prisma" width="40" height="40"/>
+  <img src="https://www.prisma.io/logo-white.svg" alt="prisma" width="40" height="40"/>
 </a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
