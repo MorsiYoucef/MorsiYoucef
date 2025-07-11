@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morsiyoucef&label=Profile%20views&color=0e75b6&style=flat" alt="morsiyoucef" /> </p>
 
-- 🔭 I’m currently working at **Hero-pay company**
+- 🔭 I’m currently working at **My Saas project**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **NestJS**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-web-green-eight.vercel.app/](https://portfolio-web-green-eight.vercel.app/)
 
